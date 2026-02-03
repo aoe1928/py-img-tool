@@ -1,0 +1,7 @@
+# 変換後のフォルダ
+jpg/
+webp/
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
